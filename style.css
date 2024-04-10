@@ -2,6 +2,13 @@
     margin: 0%;
     padding: 0%;
 }
+
+header{
+    display: flex;
+    padding: 50%;
+    background-color: black;
+}
+
 h1{
     text-align: center;
     font-size: 100px;
@@ -15,4 +22,8 @@ color: lightskyblue;
 .cabecalho{
 border-style: groove;
 color: black;
+border-color: black;
+}
+#icone{
+    padding: 10;
 }
