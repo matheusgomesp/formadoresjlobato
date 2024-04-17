@@ -34,6 +34,10 @@ h2{
 div2{
     font-size: 40px;
     margin-top: 10%;
+    border-color: black;
+    background-color: aliceblue;
+    border-style: groove;
+    height: 5%;
 }
 div3{
     display: flex;
@@ -75,4 +79,8 @@ div7{
     font-size: 40px;
     margin-top: 10%;
     margin-left: 1%;
+    border-color: black;
+    background-color: aliceblue;
+    border-style: groove;
+    height: 5%;
 }
