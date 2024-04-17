@@ -6,6 +6,8 @@
 .cabecalho{
     display: flex;
     background-color: gold;
+    border-style: groove;
+    border-color: black;
 }
 h1{
     text-align: center;
