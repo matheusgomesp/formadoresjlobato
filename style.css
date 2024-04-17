@@ -49,7 +49,7 @@ div4{
     border-color: black;
     border-style: groove;
     background-color: aliceblue;
-    display: inline-block;
+    height: 5%;
 }
 div5{
     display: flex;
