@@ -5,12 +5,12 @@
 
 .cabecalho{
     display: flex;
-    background-color: black;
+    background-color:  gold,
 }
 h1{
     text-align: center;
     font-size: 100px;
-    color: gold;
+    color: black;
 }
 ul{
 font-size: 30px;
