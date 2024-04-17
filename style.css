@@ -5,7 +5,7 @@
 
 .cabecalho{
     display: flex;
-    background-color:  gold,
+    background-color: gold;
 }
 h1{
     text-align: center;
