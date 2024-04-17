@@ -59,7 +59,7 @@ div6{
     border-color: black;
     border-style: groove;
     background-color: aliceblue;
-    display: flex;
+    display: block;
 }
 .cordelius{
     height: 20%;
