@@ -45,6 +45,10 @@ div3{
 div4{
     font-size: 40px;
     margin-top: 10%;
+    border-color: black;
+    border-style: groove;
+    background-color: aliceblue;
+    display: block;
 }
 div5{
     display: flex;
