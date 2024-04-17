@@ -37,3 +37,6 @@ h2{
 div2{
     font-size: 40px;
 }
+div3{
+    display: flex;
+}
