@@ -8,7 +8,7 @@
     background-color: gold;
 }
 h1{
-    right: 50%;
+    text-align: right;
     font-size: 100px;
     color: black;
 }
