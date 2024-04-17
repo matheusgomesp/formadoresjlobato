@@ -48,7 +48,7 @@ div4{
     border-color: black;
     border-style: groove;
     background-color: aliceblue;
-    display: block;
+    display: inline-block;
 }
 div5{
     display: flex;
