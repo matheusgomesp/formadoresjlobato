@@ -54,6 +54,10 @@ div5{
     display: flex;
 }
 .edgar{
-    height: 20%;
-    width: 20%;
+    height: 18%;
+    width: 18%;
+}
+div6{
+    font-size: 40px;
+    margin-top: 10%;
 }
